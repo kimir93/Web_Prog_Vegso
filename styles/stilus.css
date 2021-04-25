@@ -1,0 +1,122 @@
+header {
+    border-radius: 10px;
+    background-color: grey;
+    padding: 100px;
+    margin: 30px 0px 0px 0px;
+    border: 3px solid white;
+}
+body{
+    background-color: dimgrey;
+}
+h1
+{
+	text-align: center;
+    color: gold;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px 50px 10px 5px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: small;
+}
+th {
+    color: orangered;
+    background-color: grey;
+    border-top: 5px solid black;
+}
+td {
+    color: orange;
+    background-color: grey;
+    border-top: 3px solid black;
+}
+
+div#wrapper {
+    margin: 10px;
+}
+
+aside {
+    display: table-row;
+    vertical-align: center;
+}
+
+nav {
+    margin:10px 10px 0px 0px;
+    border-radius: 15px;
+    border: 3px solid white;
+    top: 0px;
+    padding: 10px;
+    width: auto;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 15px 0px;
+
+}
+
+nav ul li {
+    float: left;
+    padding: 0px 10px 0px 15px;
+    display: inline;
+    margin-bottom: 20px;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: orangered;
+}
+#terkep{
+    float: right;
+}
+div#oldalsav{
+   display: table-cell;
+    border: 3px solid white;
+    float: left;
+    border-radius: 10px;
+    color: orangered;
+    margin: 10px 10px 10px 10px;
+    width: 20%;
+}
+div#content {
+    margin: 10px 10px 10px 10px;
+    color: orangered;
+    display: table-cell;
+    width: 90%;
+    border-radius: 10px;
+    padding: 15px;
+    border: 3px solid white;
+    float: right;
+}
+#video{
+    width: 30%;
+    float: right;
+}
+div#content img {
+    width: 20em;
+    height: auto;
+    margin: 0 0 20px 20px;
+    padding: 3px;
+    border: 3px solid gold;
+}
+#kep1{
+    float: right;
+}
+#kep2{
+float: right;
+}
+#terkep
+{
+    float: right;
+    vertical-align: top;
+}
+
+footer {
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px 20px;
+    background-color: green;
+}
